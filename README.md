@@ -1,3 +1,5 @@
+![RV1103](https://raw.githubusercontent.com/LessPlum3393/Luckfox-Plus/refs/heads/main/rv1103.png)
+![Luckfox Plus](https://raw.githubusercontent.com/LessPlum3393/Luckfox-Plus/refs/heads/main/Luckfox-Pico-Plus-1-1600x1200.jpg)
 # Luckfox Plus (RV1103)
 |                    | Working?                 | Note                                                                                    |
 | :----------------: | :-----------------------: | :-------------------------------------------------------------------------------------: |
