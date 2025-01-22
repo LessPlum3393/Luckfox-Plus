@@ -10,3 +10,4 @@
 | screen             | ❔                       | Not tested yet |
 | cpuminer        | ❔                       | Not tested yet |
 | echo             | ✅                       | - |
+| htop             | ✅                         | - |
